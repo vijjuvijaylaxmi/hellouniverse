@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+ pass  all arug ments in script is $*
+ pass total number of aruguments in script $#
+ passed arguments stored in array format $@
+  
+
+
